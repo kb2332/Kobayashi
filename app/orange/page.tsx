@@ -31,9 +31,9 @@ export default function Page() {
                         'absolute left-8'}>
                         <h2>About</h2>
                         <p>University of Osaka</p>
-                        <p>Faculty of Engineering</p>
-                        <p>Science, Department of</p>
-                        <p>Information Science</p>
+                        <p>Faculty of dental</p>
+                        <p>dental, Department of</p>
+                        <p>dental and medical</p>
                     </section>
                     <section className={'bg-orange-container-a rounded-[3rem] p-12 leading-loose ' +
                         'absolute right-12 top-12'}>
